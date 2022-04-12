@@ -20,7 +20,7 @@
   
 * [List IAM Access Key](https://github.com/elif-apaydin/scripts/blob/main/python-scripts/list-iam-access-key.py)
 
-    --> Provides a list of all IAM Access Keys in your AWS account. In this list, you can find **User**, **Key**, **Last Used** and **Age of Key information**. **Example output;**
+    --> Provides a list of all IAM Access Keys in your AWS account. In this list, you can find **User**, **Key**, **Last Used** and **Age of Key** information. **Example output;**
 		
         User: USER_NAME Key: ACCESS_KEY Last Used: 2021-10-27 20:29:00+00:00 Age of Key: 230 Days
 
